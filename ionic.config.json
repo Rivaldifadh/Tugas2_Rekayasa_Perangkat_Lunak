@@ -1,0 +1,7 @@
+{
+  "name": "LATIHANRPL2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
